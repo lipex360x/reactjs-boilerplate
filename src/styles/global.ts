@@ -57,4 +57,10 @@ export default createGlobalStyle`
     background: 0;
     border: none;
   }
+
+  @media (min-width: 700px) {
+    :root {
+      font-size: 62.5%
+    }
+  }
 `
