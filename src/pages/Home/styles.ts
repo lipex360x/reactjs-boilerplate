@@ -9,6 +9,6 @@ export const Section = styled.section`
  height: 100vh;
 
  p { 
-   color: var(--color-white)
+   color: var(--color-primary)
  }
 `
