@@ -5,7 +5,8 @@ export default createGlobalStyle`
     font-size: 60%;
     --color-background: #312e38;
 
-    --color-white: #f0f0f0; 
+    --color-white: #f0f0f0;
+    --color-primary: #222
   }
 
   * {
