@@ -32,7 +32,7 @@ export default createGlobalStyle`
 
 
   body, input, button, textarea {
-    font: 500 1.6rem Roboto
+    font: 500 1.6rem Poppins
   }
 
   a {
