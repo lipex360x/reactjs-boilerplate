@@ -12,8 +12,10 @@ const Home = () => {
 
   return (
     <S.Section>
-      <Header>Hello React</Header>
-      <p>{message}</p>
+      <S.Container className="container">
+        <Header>Hello React</Header>
+        <p>{message}</p>
+      </S.Container>
     </S.Section>
   )
 }
