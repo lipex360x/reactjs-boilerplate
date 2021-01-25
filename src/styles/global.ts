@@ -3,7 +3,7 @@ import { createGlobalStyle } from 'styled-components'
 export default createGlobalStyle`
   :root {
     font-size: 60%;
-    --color-background: #312e38;
+    --color-background: #F0F0F7;
 
     --color-white: #f0f0f0;
     --color-primary: #222
@@ -17,11 +17,11 @@ export default createGlobalStyle`
     box-sizing: border-box;
   }
 
-  *:focus{
+  *:focus {
     outline:0;
   }
 
-  body{
+  body {
     background: var(--color-background);
     -webkit-font-smoothing: antialiased;
   }
@@ -30,11 +30,12 @@ export default createGlobalStyle`
     height: 100vh
   }
 
-  body, input, button {
-    font-family: 'Roboto'
+
+  body, input, button, textarea {
+    font: 500 1.6rem Roboto
   }
 
-  a{
+  a {
     text-decoration: none;
   }
 
@@ -51,7 +52,7 @@ export default createGlobalStyle`
     font-weight: 500;
   }
 
-  button{
+  button {
     cursor: pointer;
     background: 0;
     border: none;
