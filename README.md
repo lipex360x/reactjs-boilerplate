@@ -3,9 +3,7 @@
 
 ---
 
-## MAIN IMAGE ##
-
-<!-- ![Image](https://github.com/lipex360x/XXXXXXXXXXXXXX/blob/master/assets/screen.jpg) -->
+![Image](https://github.com/lipex360x/reactjs-boilerplate/blob/master/assets/screen.jpg)
 
 ---
 
