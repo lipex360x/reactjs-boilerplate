@@ -9,7 +9,7 @@
 
 ---
 
-#### :bookmark_tabs: Content Index
+### :bookmark_tabs: Content Index
 
 - [Setup](#zap-setup)
 
@@ -19,7 +19,7 @@
 
 ---
 
-#### :zap: Setup
+### :zap: Setup
 
 Clone the main repository, then enter this folder and run `npm i && npm start` to start the front-end.
 
@@ -31,7 +31,7 @@ Check more details of this project in the back-end folder
 
 ---
 
-#### :zap: Technologies
+### :zap: Technologies
 
 ```json
  ReactJS
