@@ -1,4 +1,5 @@
 import React from 'react'
+import 'dotenv/config'
 import { BrowserRouter } from 'react-router-dom'
 
 import GlobalStyle from './styles/global'

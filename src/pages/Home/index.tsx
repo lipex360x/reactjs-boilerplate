@@ -5,7 +5,7 @@ import * as S from './styles'
 
 import Header from '../../components/Header'
 
-const socket = io('http://localhost:3333')
+const socket = io(`${process.env.REACT_APP_SOCKET_SERVER_URL}:${process.env.REACT_APP_SOCKET_SERVER_PORT}`)
 
 const Home = () => {
   const [message, setMessage] = useState('')
