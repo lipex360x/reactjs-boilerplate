@@ -1,5 +1,4 @@
-<h2 align="center">XXXXXXXXXXXXXXXXXXX</h2>
-<p align="center">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</p>
+<h2 align="center">ReactJS Boilerplate</h2>
 
 ---
 
@@ -31,7 +30,7 @@ Check more details of this project in the back-end folder
 
 ### :zap: Technologies
 
-```json
+```js
  ReactJS
  Styled Components
  Axios
